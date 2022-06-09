@@ -1,4 +1,4 @@
-# ZimTech-Company-Data-Analysis-using-python
+# ZimTechnology-Company-Data-Analysis-in-Python
 
 ## BACKGROUND
 A Company ZIMTECH has reached out to us for a simple data management project.
